@@ -1,0 +1,35 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/mc00084-001-te0159-000-001_0001"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "University Plaza",
+            "purpose": "commenting",
+            "creator": {
+                "id": "qjhart",
+                "name": "Quinn Hart"
+            },
+            "created": "2022-05-25T21:17:23.852Z",
+            "modified": "2022-05-25T21:17:28.998Z"
+        }
+    ],
+    "target": {
+        "source": "https://d.lib.ncsu.edu/collections/canvas/mc00084-001-te0159-000-001_0001",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pct:20.262271068135245,91.26436400182038,32.35589739958672,5.402294763855179"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://d.lib.ncsu.edu/collections/catalog/mc00084-001-te0159-000-001_0001/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3d107ceb-ff89-4cf7-be7c-2e09a11757ee.json",
+    "motivation": "commenting"
+}
